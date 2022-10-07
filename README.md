@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Pham Tuan Duong</h1>
- <img align ="right" alt= "Coding" width= "50px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align ="right" alt= "Coding" width= "50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 -  I’m currently majoring Software Engineering at FPT University <br>
 - 🔭 I' m interested in data analynist
 
