@@ -4,6 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
  <img align ="right" alt= "Coding" width= "200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <p>
+ <a href="https://fb.com/phạm tuấn dương" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phạm tuấn dương" height="30" width="40" /></a>
  <a href="https://instagram.com/tuanduong239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuanduong239" height="30" width="40" /></a>
 <a href="https://discord.gg/Phạm Tuấn Dương#4928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phạm Tuấn Dương#4928" height="30" width="40" /></a>
 </p>
