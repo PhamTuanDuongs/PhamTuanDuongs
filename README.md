@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Pham Tuan Duong</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
 -  I’m currently majoring Software Engineering at FPT University <br>
 - 🔭 I' m interested in data analynist
 
