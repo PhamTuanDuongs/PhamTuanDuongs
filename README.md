@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Pham Tuan Duong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
--  I’m currently majoring Software Engineering at FPT University
--  <b>
+-  I’m currently majoring Software Engineering at FPT University <br>
 - 🔭 I' m interested in data analynist
 
 <h3 align="left">Connect with me:</h3>
