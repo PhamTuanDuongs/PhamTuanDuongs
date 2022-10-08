@@ -54,13 +54,15 @@
             alt="react" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a> </p>
-<div style="display:inline ;">&nbsp;<img align="center"
+<div align ="center" dir="auto">
+    <a>&nbsp;<img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&show_icons=true&locale=en"
-        alt="phamtuanduongs" /></div>
+        alt="phamtuanduongs" /></a>
 
-<div style="display: inline;"><img align="center"
+   <a><img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=phamtuanduongs&show_icons=true&locale=en&layout=compact"
-        alt="phamtuanduongs" /></div>
+        alt="phamtuanduongs" /></a>
+</div>
 
 
 
