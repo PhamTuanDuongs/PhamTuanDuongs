@@ -59,7 +59,7 @@
         src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&show_icons=true&locale=en"
         alt="phamtuanduongs" style="max-width: 100%;"></a>
 
-   <a><img height="180em"
+    <a align = "right"><img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=phamtuanduongs&show_icons=true&locale=en&layout=compact"
         alt="phamtuanduongs" style="max-width: 500px;"></a>
 </div>
