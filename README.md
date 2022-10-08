@@ -5,7 +5,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p>
-    <a href="[https://fb.com/phạm tuấn dương](https://www.facebook.com/tuanduong.pham.372)" target="blank"><img align="center"
+    <a href="https://www.facebook.com/tuanduong.pham.372" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="phạm tuấn dương" height="30" width="40" /></a>
     <a href="https://instagram.com/tuanduong239" target="blank"><img align="center"
