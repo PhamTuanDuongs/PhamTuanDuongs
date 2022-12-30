@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Pham Tuan Duong</h1>
 - I’m currently majoring Software Engineering at FPT University <br>
-- 🔭 I' m interested in data analynist
+- 🔭 I'm interested in web development
 <img align="" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 <h3 align="left">Connect with me:</h3>
