@@ -37,11 +37,9 @@
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer">
          <div style="float: left;">
-            <img height="185em"
+            <img height="180em"
            src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&show_icons=true&locale=en"
-           alt="phamtuanduongs" style="max-width: 50%;"/>
-           <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e9afa9e9b7e18afe8e914e158245097090695cc3c6a4a087f72e8f3c5de584ec   /68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7068616d7475616e64756f6e67732673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374">
-            <img src="https://camo.githubusercontent.com/e9afa9e9b7e18afe8e914e158245097090695cc3c6a4a087f72e8f3c5de584ec/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7068616d7475616e64756f6e67732673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="phamtuanduongs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=phamtuanduongs&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;" height="180em">
+           alt="phamtuanduongs" width="300"/>
+            <img src="https://camo.githubusercontent.com/e9afa9e9b7e18afe8e914e158245097090695cc3c6a4a087f72e8f3c5de584ec/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7068616d7475616e64756f6e67732673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="phamtuanduongs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=phamtuanduongs&amp;show_icons=true&amp;locale=en&amp;layout=compact" width="300";" height="180em"/>
         </a>
-           
         </div>
