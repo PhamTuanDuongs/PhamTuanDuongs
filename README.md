@@ -1,3 +1,10 @@
+<h1>Hi 👋, I'm Pham Tuan Duong</h1>
+    - I’m currently majoring Software Engineering at FPT University <br>
+    - 🔭 I'm interested in web development
+    <div style="margin-left: 200;">
+        <img alt=" Coding" width="300"
+            src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+    </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
