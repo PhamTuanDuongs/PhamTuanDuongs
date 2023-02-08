@@ -37,6 +37,6 @@
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer">
          <div>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
-           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuanduongs&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+            <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
+           <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuanduongs&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
          </div>
