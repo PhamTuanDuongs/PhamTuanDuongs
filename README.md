@@ -1,42 +1,51 @@
-<h1>Hi 👋, I'm Pham Tuan Duong</h1>
-    - I’m currently majoring Software Engineering at FPT University <br>
-    - 🔭 I'm interested in web development
-    <div align="center">
-        <img alt=" Coding" width="300"
-            src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-    </div>
-<h3 align="left">Connect with me:</h3>
-<p>
-    <a href="https://www.facebook.com/tuanduong.pham.372" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="phạm tuấn dương" height="30" width="40" /></a>
-    <a href="https://instagram.com/tuanduong239" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="tuanduong239" height="30" width="40" /></a>
-    <a href="https://discord.gg/Phạm Tuấn Dương#4928" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="Phạm Tuấn Dương#4928" height="30" width="40" /></a>
-     <a href="https://github.com//PhamTuanDuongs"><img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"> </a>
-    <a href="mailto:tuanduongpthe@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<h1 align="center"><b>Hi , I'm Phạm Tuấn Dương </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phamtuanduongs&label=Profile%20views&color=0e75b6&style=flat" alt="phamtuanduongs" /> </p>
+<hr>
+
+***I’m currently majoring Software Engineering at FPT University .***
+<br>
+🔭 I’m interested in web development. <br>
+🌱 I’m currently learning: **Spring Boot, ASP.NET, Javascript, Java and Web Development!**<br>
+
+<br>
+<hr>
+
+### Connect with me:
+
+<div align='center'>
+<a href="www.linkedin.com/in/tuanduongpt" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: PhamTuanDuong-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<a href="mailto:tuanduongpthe@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  tuanduongpthe@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</div>
+<br>
+<p align="center">
+<hr>
+    
+### ⚙ Languages & Frameworks:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<hr>
+
+### Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<h3 align="left">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
+<p align= "left">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuanduongs&theme=react&layout=compact" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a><a href="https://www.java.com" target="_blank"
-        rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer">
-         <div>
-            <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api?username=phamtuanduongs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
-           <img height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuanduongs&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-         </div>
+</div>
