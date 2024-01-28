@@ -7,7 +7,7 @@
 ***I’m currently majoring Software Engineering at FPT University .***
 <br>
 🔭 I’m interested in web development. <br>
-🌱 I’m currently learning: **Spring Boot, ASP.NET, Javascript, Java and Web Development!**<br>
+🌱 I’m currently learning: **C#, Javascript, Typescript, Java and Golang**<br>
 
 <br>
 <hr>
