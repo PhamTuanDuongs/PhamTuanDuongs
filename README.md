@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamtuanduongs&label=Profile%20views&color=0e75b6&style=flat" alt="phamtuanduongs" /> </p>
 <hr>
 
-***I’m currently majoring Software Engineering at FPT University .***
+***I have recently graduated with a major in Software Engineering from FPT University.***
 <br>
 🔭 I’m interested in web development. <br>
-🌱 I’m currently learning: **C#, Javascript, Typescript, Java and Golang**<br>
+🌱 I’m currently learning: **C#, Javascript, Java and Golang**<br>
 
 <br>
 <hr>
